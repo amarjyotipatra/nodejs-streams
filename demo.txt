@@ -1,0 +1,1 @@
+My name is {name}.I have graduated from {collage}.I am {age} years old.

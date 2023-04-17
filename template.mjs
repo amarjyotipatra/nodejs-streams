@@ -1,0 +1,1 @@
+console.log(__dirname);//It will not support in ES6 moduling.
